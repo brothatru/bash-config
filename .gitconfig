@@ -1,0 +1,8 @@
+[user]
+	name = mtrieu
+	email = mtrieu@mfour.com
+
+[alias]
+	st = status
+	v = log --decorate --graph --oneline --all
+	his = log -p -- 

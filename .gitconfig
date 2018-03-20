@@ -4,5 +4,8 @@
 
 [alias]
 	st = status
+    sta = status -uall
 	v = log --decorate --graph --oneline --all
 	his = log -p -- 
+[core]
+	editor = /usr/bin/vim
